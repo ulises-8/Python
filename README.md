@@ -2,7 +2,7 @@
 - I'm Ulises, and I want to share my odyssey in programming
 - I started learning programming in October 2020 (when I signed up for a college introductory programming course in Python)
 - I then took an intermediate-level course, and finally, an "advanced data structures and algorithms" class
-- In total, there are 19 projects (10 intermediate, 9 advanced) that illustrate my growth and progress in programming
+- In total, there are 19 projects (10 intermediate, 9 advanced) that illustrate my challenges, growth and progress in programming
  
 - 👀 I’m interested in software development, NLP, ML and data science
 - I have experience in Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn and NLTK
