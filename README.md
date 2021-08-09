@@ -8,7 +8,7 @@
 - I have experience in Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn and NLTK
 - In addition to experience in SQL and Linux
 - 🌱 I’m currently learning PL/SQL, AWS and JavaScript
-- 💞️ I’m looking to collaborate as a software developer or data scientist at a company with ambitious and goals
+- 💞️ I’m looking forward to collaborate as a software developer or data scientist at a company with ambitious and goals
 - 📫 ulises.marian@hotmail.com
 
 <!---
